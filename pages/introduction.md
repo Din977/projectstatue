@@ -2,7 +2,7 @@
 title: Introduction
 layout: introduction
 permalink: /introduction.html
-cover: "/assets/cover_1"
+cover: "/assets/img/cover_1.jpg"
 # include CollectionBuilder info at bottom
 credits: true
 # Edit the markdown on in this file to describe your collection

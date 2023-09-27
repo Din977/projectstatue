@@ -1,5 +1,5 @@
 ---
-title: Wat 
+title: Wat Buddhasamakkee
 layout: wat Buddhasamakkee
 permalink: /wat Buddhasamakkee.html
 # include CollectionBuilder info at bottom

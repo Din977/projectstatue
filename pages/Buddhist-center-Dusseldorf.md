@@ -1,7 +1,7 @@
 ---
-title: Buddhist center Dusseldorf
-layout: buddhist center Düsseldorf
-permalink: /buddhist center Dusseldorf.html
+title: Dusseldorf
+layout: dusseldorf
+permalink: /dusseldorf.html
 # include CollectionBuilder info at bottom
 credits: true
 # Edit the markdown on in this file to describe your collection

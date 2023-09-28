@@ -1,7 +1,7 @@
 ---
-title: Center
-layout: center
-permalink: /center.html
+title: EKO-Center
+layout: EKO-center
+permalink: /EKO-center.html
 # include CollectionBuilder info at bottom
 credits: true
 # Edit the markdown on in this file to describe your collection

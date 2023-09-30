@@ -2,14 +2,13 @@
 title: EKO-Center
 layout: EKO-center
 permalink: /EKO-center.html
-cover:"/objects/center_2008.JPG"
 # include CollectionBuilder info at bottom
 credits: true
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/image.html objectid="center_2008" width="75" %}
+{% include feature/image.html objectid="center_2008.JPG" width="75" %}
 ## The EKŌ Center of Japanese Culture.
 ** Introduction**
 

@@ -2,6 +2,7 @@
 title: EKO-Center
 layout: EKO-center
 permalink: /EKO-center.html
+cover:"/objects/center_2008.JPG"
 # include CollectionBuilder info at bottom
 credits: true
 # Edit the markdown on in this file to describe your collection

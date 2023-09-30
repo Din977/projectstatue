@@ -8,6 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
+{% include feature/image.html objectid="center_2008" width="75" %}
 ## The EKŌ Center of Japanese Culture.
 ** Introduction**
 

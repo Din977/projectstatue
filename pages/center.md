@@ -7,7 +7,7 @@ credits: true
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
-"![](https://github.com/Din977/projectstatue/objects/center_2008.jpg"
+"![](https://github.com/Din977/projectstatue/objects/center_2008.JPG"
 
 - Image --> `{% raw %}{% include feature/image.html objectid="center_2008.jpg" width="75" %}{% endraw %}
 

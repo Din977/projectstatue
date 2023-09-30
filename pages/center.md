@@ -9,6 +9,8 @@ credits: true
 ---
 "![](https://github.com/Din977/projectstatue/objects/center_2008.JPG"
 
+- Image --> `{% raw %}{% include feature/image.html objectid="center_2008.JPG" width="75" %}{% endraw %}
+
 {% include feature/image.html objectid="center_2008.JPG" width="75" %}
 ## The EKŌ Center of Japanese Culture.
 ** Introduction**

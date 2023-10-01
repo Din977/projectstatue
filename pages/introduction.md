@@ -8,12 +8,13 @@ credits: true
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
+
 ![Buddha](https://raw.githubusercontent.com/Din977/projectstatue/main/objects/center_2008.JPG)
 
-<table><tr><td>
+
  
 ## Historical records of Buddhism to the West
-
+___________________________________________
 **Introduction**
 
 Buddhism is one of the most ancient religion present Buddhist history goes back till Siddhratha Gautam who was born 2500 B.C. During the time of Buddha, Buddhism was just limited to Indian sub continent. Buddhism has widely spread at the time of Emperor Asoka. Under his patronage Buddhist missionary monks were sent to nine different places.  Even at that time there was no written record and evidence were discovery about Buddhism in the west. However, in my opinion, the western must have idea about Buddha and Buddhism because of wanderers, traders and traveller monks. 
@@ -36,5 +37,5 @@ Many Westerners have converted to Buddhism over the years, drawn to its teaching
 ### Buddhist Organizations in the west
 
  Buddhist organizations and societies began to form in the West during the early 20th century. Anagārika Dharmapāla founded branches of the Maha Bodhi Society in various Western countries, including the United States and the United Kingdom. These organizations aimed to promote Buddhist practices and principles. 
- </td></tr></table>
+ 
 

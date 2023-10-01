@@ -8,12 +8,8 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 ![Japanese center](https://raw.githubusercontent.com/Din977/projectstatue/main/objects/center_2008.JPG)
-
 ## The EKŌ Center of Japanese Culture.
-
 **Introduction**
-
-
 The history of Buddhism in the Western world is marked by various individuals and organizations that have played pivotal roles in introducing and spreading Buddhist teachings. One such figure is NUMATA Yehan, whose journey from adversity to a life mission in Buddhism led to the establishment of the EKŌ Center of Japanese Culture in Germany. NUMATA Yehan's early life was characterized by hardship, as he pursued education in the United States while facing financial challenges. At the age of 22, he contracted tuberculosis, a seemingly incurable disease at the time. In his darkest moments, Yehan encountered the teachings of Venerable Shinran, which transformed his outlook on life and marked the beginning of his spiritual journey.
 NUMATA Yehan's recovery from tuberculosis became a turning point in his life. He developed a profound appreciation for life and a strong sense of mission to share Buddhist teachings with people around the world. This new found purpose drove his subsequent actions and initiatives.
 

@@ -8,11 +8,7 @@ credits: true
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
-<style>
-p {
-  background-image: url('center_2008.jpg');
-}
-</style>
+https://github.com/Din977/projectstatue/blob/main/objects/center_2008.JPG
 ## Historical records of Buddhism to the West
 
 **Introduction**
@@ -36,4 +32,4 @@ Many Westerners have converted to Buddhism over the years, drawn to its teaching
 
 ### Buddhist Organizations in the west
 
- Buddhist organizations and societies began to form in the West during the early 20th century. Anagārika Dharmapāla founded branches of the Maha Bodhi Society in various Western countries, including the United States and the United Kingdom. These organizations aimed to promote Buddhist practices and principles. </p>
+ Buddhist organizations and societies began to form in the West during the early 20th century. Anagārika Dharmapāla founded branches of the Maha Bodhi Society in various Western countries, including the United States and the United Kingdom. These organizations aimed to promote Buddhist practices and principles. 

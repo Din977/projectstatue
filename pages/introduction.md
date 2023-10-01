@@ -13,7 +13,7 @@ credits: true
 
 **Introduction**
 
-<p>Buddhism is one of the most ancient religion present Buddhist history goes back till Siddhratha Gautam who was born 2500 B.C. During the time of Buddha, Buddhism was just limited to Indian sub continent. Buddhism has widely spread at the time of Emperor Asoka. Under his patronage Buddhist missionary monks were sent to nine different places.  Even at that time there was no written record and evidence were discovery about Buddhism in the west. However, in my opinion, the western must have idea about Buddha and Buddhism because of wanderers, traders and traveller monks. 
+Buddhism is one of the most ancient religion present Buddhist history goes back till Siddhratha Gautam who was born 2500 B.C. During the time of Buddha, Buddhism was just limited to Indian sub continent. Buddhism has widely spread at the time of Emperor Asoka. Under his patronage Buddhist missionary monks were sent to nine different places.  Even at that time there was no written record and evidence were discovery about Buddhism in the west. However, in my opinion, the western must have idea about Buddha and Buddhism because of wanderers, traders and traveller monks. 
 According to historical record and evidence, Alexander the great, could be consider as the first westerner from Kingdom of Macedon who invaded India in 326 BC. Although, there is historical record proved his India visit was not just a visit as the expansion of Greek empire to Asia. But along with him, Greek style art were domesticated in India.  Greek sculpture influences were depicted in art and architecture of India sculpture. 
 
 ### Orientalists role 

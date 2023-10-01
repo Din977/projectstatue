@@ -9,7 +9,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-<img src= "https://raw.githubusercontent.com/Din977/projectstatue/main/objects/center_2008.JPG" width="2000" />
+<img src= "https://raw.githubusercontent.com/Din977/projectstatue/main/objects/center_2008.JPG" width="1000" />
 
 
  

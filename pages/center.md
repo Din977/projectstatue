@@ -14,6 +14,7 @@ credits: true
 {% include feature/image.html objectid="center_2008.jpg" width="75" %}
 
 ![Github logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
 ## The EKŌ Center of Japanese Culture.
 
 **Introduction**

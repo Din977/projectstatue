@@ -9,9 +9,9 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 [Buddha] https://github.com/Din977/projectstatue/blob/main/objects/center_2008.JPG
+<kbd>
 ## Historical records of Buddhism to the West
 
-<kbd>
 **Introduction**
 
 Buddhism is one of the most ancient religion present Buddhist history goes back till Siddhratha Gautam who was born 2500 B.C. During the time of Buddha, Buddhism was just limited to Indian sub continent. Buddhism has widely spread at the time of Emperor Asoka. Under his patronage Buddhist missionary monks were sent to nine different places.  Even at that time there was no written record and evidence were discovery about Buddhism in the west. However, in my opinion, the western must have idea about Buddha and Buddhism because of wanderers, traders and traveller monks. 

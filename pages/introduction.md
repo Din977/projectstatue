@@ -8,8 +8,9 @@ credits: true
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
-[Buddha] https://github.com/Din977/projectstatue/blob/main/objects/center_2008.JPG
+![Buddha](https://github.com/Din977/projectstatue/blob/main/objects/center_2008.JPG)
 <kbd>
+
 ## Historical records of Buddhism to the West
 
 **Introduction**

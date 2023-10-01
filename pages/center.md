@@ -9,9 +9,8 @@ credits: true
 ---
 ![Japanese center](https://raw.githubusercontent.com/Din977/projectstatue/main/objects/center_2008.JPG)
 
-- Image -->{% raw %}{% include feature/image.html objectid="center_2008.jpg" width="75" %}{% endraw %}
-
-{% include feature/image.html objectid="center_2008.jpg" width="75" %}
+- Image -->#{% raw %}{% include feature/image.html objectid="center_2008.jpg" width="75" %}{% endraw %}
+{% include feature/image.html objectid="center_2008.jpg" width="75" %}'
 
 ![Github logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 

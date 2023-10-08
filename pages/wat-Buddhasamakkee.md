@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 ## Wat Buddhasamakkee
-![Wat Buddhasamakkee](https://raw.githubusercontent.com/Din977/projectstatue/main/objects/banner.jpg)
+![Wat Buddhasamakkee](https://raw.githubusercontent.com/Din977/projectstatue/main/objects/Banner.jpg)
 
 
 

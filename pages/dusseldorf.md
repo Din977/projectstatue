@@ -8,6 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 ## Buddhist centre Dusseldorf (The Diamond Way Buddhism)
+---------------------------------------------------------
 Buddhist Centre Düsseldorf is located at unterbilk. This center is established as meeting point for those who are interested about Buddhism and get explanations about meditation from experienced Buddhist practitioners. The main propose of the center is to provide open access to the method of Diamond way Buddhism.
 This centre was established in the initiation of Lama Ole Nydahl and his wife Hannah, Lama Ole Nydahl, a Western Buddhist master born in Denmark, established Diamond Way Buddhism in the 1970’s, together with his wife Hannah Nydahl. They both worked since the 1970s to translate and spread the Karma Kagyu lineage of lay Tibetan Buddhism in the West. After several years in the Himalayas learning and traveling with the 16th Karmapa Rangjung Rigpe Dorje and other Tibetan meditation masters, Lama Ole Nydahl and his wife Hannah set off back to Denmark. 
 Karmapa empowered them to bring the Vajrayana transmission and Buddhist teachings they had received to the West and see if there was anyone interested. At first reluctant to leave their beloved teacher, they finally agreed. Thus in 1972 began their journey of bringing Buddhism to the West.

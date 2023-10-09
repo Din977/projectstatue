@@ -10,6 +10,7 @@ credits: true
 ![Japanese center](https://raw.githubusercontent.com/Din977/projectstatue/main/objects/ekohaus.jpg)
 
 ## The EKŌ Center of Japanese Culture
+__________________________________________
 
 **Introduction**
 

@@ -40,7 +40,7 @@ In order to reflect aesthetic identity in the meditation hall, there are several
 In order to show the affiliation, the image of 17th Gyalwa Karmapa  is placed on the right side 16th Karmapa, Thaye Dorje. Founder  Lama Ole Nydahl's picture was placed on the left of the 16th Karmapa.
 
 #### Statues
-![Düssorldorf](https://raw.githubusercontent.com/Din977/projectstatue/main/objects/statue.JPG)
+![Düssorldorf](https://raw.githubusercontent.com/Din977/projectstatue/main/objects/statue.jpg)
 
 
 

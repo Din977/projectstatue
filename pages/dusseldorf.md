@@ -18,7 +18,8 @@ They founded Diamond Way Buddhism for lay students of Karma Kagyu Buddhism, whic
 
 More than 40 years later, there are now 640 Diamond Way Buddhist centers around the world. The meditation methods that these centers are all traditional Buddhist teachings, but adjusted according to modern style, giving access to all. Lama Ole has taught a number of students as a lay Diamond Way Buddhist teacher with his long experience. He gives practical explanations about Buddhism in Diamond Way centers.
 Thaye Dorje, His Holiness the 17th Gyalwa Karmapa, and other high Buddhist teachers such as Sherab Gyaltsen Rinpoche and Lama Jigme Rinpoche visit Diamond Way Buddhist centers and teach and conduct a large meditation course.
-![Düssorldorf](https://raw.githubusercontent.com/Din977/projectstatue/main/objects/structure.JPG)
+
+![Düssorldorf](https://raw.githubusercontent.com/Din977/projectstatue/main/objects/structure.jpg)
 
 **Activities**
 

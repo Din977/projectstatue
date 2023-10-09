@@ -13,7 +13,7 @@ credits: true
 
 
 Wat Buddha Samakhee temple is located in Duisburg, Germany. This temple was established by a group of Thai immigrants and Thai inhabitants of Germany for a long time. They have moved from Düsseldorf to Markusstr. 44, 47055 Duisburg in 2020.03.20 There is nothing like a special temple in Thailand, but people try to bring the same atmosphere here. They have rented a house, converted it into a temple, and developed it as a temple.
-https://fb.watch/nyCLMCCwtq/
+{% include feature/https://fb.watch/nyCLMCCwtq/ objectid=videosampleid width="75" %}
   The people of Thailand bonded with Thai culture in daily life. The temple is also a medium, where people can join and fulfill their cultural traditions. The main objective of the temple is to get advice and blessings from Sangha and give a platform for their community to celebrate traditional culture. Temples in Thailand have played multifaceted roles throughout history. They served as centers of education, where religious knowledge, reading, writing, and various other subjects were taught. Temples have also been the cradle of Thai customs and traditions, serving as focal points for local communities. In contemporary times, temples primarily function as places of religious learning and for performing religious ceremonies and rites. These include offerings, ordinations, and cremations, preserving the rich cultural and spiritual heritage of Thailand.
 
 **Organization structure**

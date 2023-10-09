@@ -51,7 +51,7 @@ To achieve this goal, the EKŌ Center is dedicated to the following activities:
 > Support and assist in projects to promote the teaching of Buddhism and Japanese culture based on Buddhism and scholarly research (including EKŌ and Ōtani Research Scholarships).
 > Activities that serve to disseminate the teaching of Buddhism and Japanese culture based on Buddhism or to promote their understanding, as well as support projects (including the operation of kindergartens)
 > Renting function rooms for the projects in accordance with the founding objectives of the EKŌ Center.
-> Other projects that serve the purposes of the EKŌ Center (including cooperative projects to promote mutual understanding through exchange and dialogues with other religions and peoples and to achieve peace in the world).
+> Other projects that serve the purposes of the EKŌ Center (including cooperative projects to promote mutual understanding through exchange and dialogues with other religions and peoples and to achieve peace in the world).[^3]
 
 The EKŌ Center of Japanese Culture does not see itself as being limited exclusively to Europe in its activities and projects, but is also globally oriented in this regard. The entire staff of the EKŌ Center will work to achieve this goal in a single body.
 BDK Europa e.V. (Bukkyō Dendō Kyōkai Europe) supports the activities of the Bukkyō Dendō Kyōkai (BDK – Society for the Promotion of Buddhism) in Japan. The latter deals with, for example, translation and distribution of the publication “The Teaching of Buddha”, and also supports research on Buddhism through endowed professorships (“Numata Chair for Buddhist Studies”) and Buddhism centers at European universities (e.g., Numata Center for Buddhist Studies at the University of Hamburg).
@@ -71,7 +71,8 @@ BDK is a non-sectarian organization and, therefore, does not adhere to one parti
 
 
 Before the arrival of Buddhism in Japan, there were local cult religions like Shinto and others. The Japanese society adapted those religions, and their belief system was rooted in the culture. In the 5th century BC, Buddhism spread to Japan from China and Korea. After the acceptance of the Japanese imperial court, Buddhism became popular among the people of Japan. The popularity of Buddhism was reflected in art and crafts.
-During the Heian period wooden sculptures were usually carved out of a single tree trunk, often Japanese cypress (hinoki). By the later Kamakura period they were being assembled from several pieces of wood, a technique called yosegi-zukuri that allowed for more complex compositions as well as greater depth of carving. Wood allowed more subtle lines compared with stone or bronze casting.[2]
+During the Heian period wooden sculptures were usually carved out of a single tree trunk, often Japanese cypress (hinoki). By the later Kamakura period they were being assembled from several pieces of wood, a technique called yosegi-zukuri that allowed for more complex compositions as well as greater depth of carving. Wood allowed more subtle lines compared with stone or bronze casting.[^1]
+
 
 
 What are the important and propose?
@@ -80,7 +81,9 @@ How do they preserve their origin and connection to the main center?
 
 ###### Footnotes:
 
-[2] https://brill.com/view/journals/jrj/10/2-3/article-p135_2.xml 
+[^1] https://brill.com/view/journals/jrj/10/2-3/article-p135_2.xml 
+
 [3] https://www.christies.com/en/stories/age-of-enlightenment-an-introduction-to-early-japa-25d8696b4fdb4b92ae1471bf4ccd23da
+[^3] https://eko-haus.de/en/about-us/purpose-history/#j2 
 
 

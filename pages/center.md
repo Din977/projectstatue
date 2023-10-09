@@ -7,7 +7,8 @@ credits: true
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
-![Japanese center](https://raw.githubusercontent.com/Din977/projectstatue/main/objects/center_2008.JPG)
+![Japanese center](https://raw.githubusercontent.com/Din977/projectstatue/main/objects/ehohaus.jpg)
+
 ## The EKŌ Center of Japanese Culture
 
 **Introduction**
@@ -40,12 +41,12 @@ The establishment of the EKŌ Center was made possible through collaboration wit
 The EKŌ Center engages in a range of activities, including publishing and disseminating Buddhist texts, supporting Buddhist teaching and research, assisting projects related to Buddhism and Japanese culture, and providing function rooms for projects aligned with its objectives. It actively promotes peace, harmony, and mutual understanding among individuals of diverse faiths and backgrounds.
 The EKŌ Center tries to promote and spread understanding of Japanese culture based on the teachings of Buddha and Japanese Buddhism, and to contribute to the realization of peace in the world through these activities and by deepening mutual understanding among many peoples and different religions.
 To achieve this goal, the EKŌ Center is dedicated to the following activities:
-**Publishing and disseminating Buddhist texts both in modern Japanese and in foreign language translations.
-Activities to promote the teaching of Buddhism, Japanese culture based on Buddhism, and scholarly research (including the endowed “Numata Chairs in Buddhist Studies” in Europe and the activities of the library).
-Support and assist in projects to promote the teaching of Buddhism and Japanese culture based on Buddhism and scholarly research (including EKŌ and Ōtani Research Scholarships).
-Activities that serve to disseminate the teaching of Buddhism and Japanese culture based on Buddhism or to promote their understanding, as well as support projects (including the operation of kindergartens)
-Renting function rooms for the projects in accordance with the founding objectives of the EKŌ Center.
-Other projects that serve the purposes of the EKŌ Center (including cooperative projects to promote mutual understanding through exchange and dialogues with other religions and peoples and to achieve peace in the world).**
+> Publishing and disseminating Buddhist texts both in modern Japanese and in foreign language translations.
+> Activities to promote the teaching of Buddhism, Japanese culture based on Buddhism, and scholarly research (including the endowed “Numata Chairs in Buddhist Studies” in Europe and the activities of the library).
+> Support and assist in projects to promote the teaching of Buddhism and Japanese culture based on Buddhism and scholarly research (including EKŌ and Ōtani Research Scholarships).
+> Activities that serve to disseminate the teaching of Buddhism and Japanese culture based on Buddhism or to promote their understanding, as well as support projects (including the operation of kindergartens)
+> Renting function rooms for the projects in accordance with the founding objectives of the EKŌ Center.
+> Other projects that serve the purposes of the EKŌ Center (including cooperative projects to promote mutual understanding through exchange and dialogues with other religions and peoples and to achieve peace in the world).**
 
 The EKŌ Center of Japanese Culture does not see itself as being limited exclusively to Europe in its activities and projects, but is also globally oriented in this regard. The entire staff of the EKŌ Center will work to achieve this goal in a single body.
 BDK Europa e.V. (Bukkyō Dendō Kyōkai Europe) supports the activities of the Bukkyō Dendō Kyōkai (BDK – Society for the Promotion of Buddhism) in Japan. The latter deals with, for example, translation and distribution of the publication “The Teaching of Buddha”, and also supports research on Buddhism through endowed professorships (“Numata Chair for Buddhist Studies”) and Buddhism centers at European universities (e.g., Numata Center for Buddhist Studies at the University of Hamburg).

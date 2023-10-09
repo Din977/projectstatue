@@ -21,6 +21,7 @@ Thaye Dorje, His Holiness the 17th Gyalwa Karmapa, and other high Buddhist teach
 ![Düssorldorf](https://raw.githubusercontent.com/Din977/projectstatue/main/objects/structure.JPG)
 
 **Activities**
+
 ![Düssorldorf](https://raw.githubusercontent.com/Din977/projectstatue/main/objects/dact.JPG)
 ![Düssorldorf](https://raw.githubusercontent.com/Din977/projectstatue/main/objects/dact_1.JPG)
 

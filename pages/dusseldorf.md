@@ -23,6 +23,7 @@ Thaye Dorje, His Holiness the 17th Gyalwa Karmapa, and other high Buddhist teach
 **Activities**
 
 ![Düssorldorf](https://raw.githubusercontent.com/Din977/projectstatue/main/objects/dact.JPG)
+
 ![Düssorldorf](https://raw.githubusercontent.com/Din977/projectstatue/main/objects/dact_1.JPG)
 
 The Diamond Way Buddhism Foundation coordinates international cultural and academic initiatives. It offers support and expertise to Buddhist centers and projects.
@@ -31,6 +32,8 @@ All Diamond Way Buddhist centers and organizations are run on a voluntary basis 
 
  
  #### Buddha statue in the meditation hall
+
+ 
  ![Düssorldorf](https://raw.githubusercontent.com/Din977/projectstatue/main/objects/altar.JPG)
 
 The real connection where people are attached to the center because of ritual objects and spaces to the Buddha, how they place it, and how much importance they give.
@@ -40,6 +43,8 @@ In order to reflect aesthetic identity in the meditation hall, there are several
 In order to show the affiliation, the image of 17th Gyalwa Karmapa  is placed on the right side 16th Karmapa, Thaye Dorje. Founder  Lama Ole Nydahl's picture was placed on the left of the 16th Karmapa.
 
 #### Statues
+
+
 ![Düssorldorf](https://raw.githubusercontent.com/Din977/projectstatue/main/objects/statue.jpg)
 
 

@@ -84,6 +84,7 @@ How do they preserve their origin and connection to the main center?
 [^1] https://brill.com/view/journals/jrj/10/2-3/article-p135_2.xml 
 
 [3] https://www.christies.com/en/stories/age-of-enlightenment-an-introduction-to-early-japa-25d8696b4fdb4b92ae1471bf4ccd23da
+
 [^3] https://eko-haus.de/en/about-us/purpose-history/#j2 
 
 

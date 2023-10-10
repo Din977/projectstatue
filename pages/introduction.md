@@ -46,6 +46,7 @@ Although, Paul Carus and Karl Eugen Neumann(1865-1915) were pioneers and the for
 
 After the destruction from the world war, Japanese society had overcome gradually and went through the path of modernity from where they were able to access international networks. As protestant missionaries, Japanese Zen Buddhists also approached a similar way to introduce Buddhism in the West. D.T. Suzuki (1870-1966) played a vital role in bringing Buddhism to the light in the West. His contributions included introducing Zen philosophy, meditation practices, and the cultural significance of Zen to Western audiences. Suzuki authored several influential books in English, such as "An Introduction to Zen Buddhism" and "Zen and Japanese Culture," which helped demystify Zen teachings. He collaborated with Western thinkers like Carl Jung and Martin Heidegger to bridge the gap between Eastern and Western philosophical traditions. Suzuki emphasized the experiential aspect of Zen and meditation, advocating that it was not just a philosophy but a way of life. His legacy includes being a significant figure in the transmission of Zen Buddhism to the West and his enduring impact on the fields of Buddhism, philosophy, and spirituality. 
 
+----------------------------------------------------------------------------
 [1]. https://www.britannica.com/biography/Menander-Indo-Greek-king
 
 [2].Batchelor,Awakening of the West,1994,p.239

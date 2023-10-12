@@ -21,10 +21,11 @@ Buddhism and Thai culture are integrated into Thai society. Buddhist monks play 
 This temple is a non-profit organization run through charity and donations from local and community people. In order to run this organization, a group of devotees has to make a request to the Thai Missionary  Union(Dhammaduta sangha) to provide a monk. The Thai Missionary Union is the administrative part that provides monks and support to the temple aboard, which is also under the supervision of the Foreign Affairs Ministry of Thailand. After the request, there will be a selection of Monks then after approval from Sangha Committee only monks will be sent. [^1]:
 
 **Monks responsibilities**
+
 >1. Monks are responsible for maintaining temple activities, they should perform daily rituals like Chanting, almsgoing, accepting food offered by devotees, and giving blessings.
 >2. Monks are also sometimes responsible for temple administration. Like care taking temple maintenance, cleaning the temple's surroundings, and handling the temple budgets.
->3.Besides these duties, monks conduct meditation sessions and promote Theravada Buddhism to community members and their children.
->4.In Thai tradition, monks are not only spiritual leaders but also family counselors who give advice in their daily lives.
+>3. Besides these duties, monks conduct meditation sessions and promote Theravada Buddhism to community members and their children.
+>4. In Thai tradition, monks are not only spiritual leaders but also family counselors who give advice in their daily lives.
 
 
 
@@ -94,9 +95,9 @@ References:
 
 [^1]: https://www.sanghaoceania.org/en/aboutus
 
-[2]:.https://www.facebook.com/mahabuddha.dusseldorf/
+[2]:https://www.facebook.com/mahabuddha.dusseldorf/
 
-[3].https://www.facebook.com/mahabuddha.dusseldorf/
+[3]:https://www.facebook.com/mahabuddha.dusseldorf/
 
 [^4]:https://www.facebook.com/mahabuddha.dusseldorf/
 

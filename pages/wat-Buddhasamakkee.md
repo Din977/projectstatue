@@ -9,7 +9,7 @@ credits: true
 ---
 ## Wat Buddhasamakkee
 -----------------------
-![Wat Buddhasamakkee](https://raw.githubusercontent.com/Din977/projectstatue/main/objects/Banner.jpg)![Wat Buddhasamakkee](https://raw.githubusercontent.com/Din977/projectstatue/main/objects/Emerald.JPG)
+![Wat Buddhasamakkee](https://raw.githubusercontent.com/Din977/projectstatue/main/objects/Banner.jpg)![Wat Buddhasamakkee](https://raw.githubusercontent.com/Din977/projectstatue/main/objects/Emereld.JPG)
 
 
 
@@ -86,18 +86,20 @@ The eyes are delicately curved and stylized, with re-curved upper eyelids and a 
 The lips, cheeks, and chin are generally lean and slender.
 Suthothai art is collaboration of four schools of art.(the general group, the Wat Trakuan, the Kamphaengpet, and the Phra Phutta Chinnarat.Sukhothai art is an evolution development form of sculpture where that reflects some characteristics of pala style from India, The topknot or ushnisha, elaborate finials of various designs are added which is influenced by Sri Lankan style. The eyes of Pagan-style sculptures have a more obviously downward gaze (Galloway 2006, 200); which also can be seen in Suthothai sculpture. The Sukhothai style is refined and elegant in ways that captured features are predominant. In sumup, the Sukhothai style emerged by watching the other styles blend into their style.
 
-![Wat Buddhasamakkee](https://raw.githubusercontent.com/Din977/projectstatue/main/objects/sukhothai.jpg)
+![Wat Buddhasamakkee](https://raw.githubusercontent.com/Din977/projectstatue/main/objects/sukhothai.jpg) [^4]:
 a: General Group, late thirteenth–fourteenth century, at Ramkhamhaeng National Museum, Sukhothai. b: Wat Trakuan, late thirteenth century, at Ramkhamhaeng National Museum, Sukhothai. c: Kamphaengpet, fourteenth–fifteenth century, at National Museum, Bangkok. d: Phra Phutta Chinnarat, fourteenth– fifteenth century, at Wat Phra Si Ratana Mahathat.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 References:
-[1]
 
-[2]
+[1].https://www.sanghaoceania.org/en/aboutus
 
-[3]
+[2].https://www.facebook.com/mahabuddha.dusseldorf/
 
-[4]
+[3].Sawitree Wisetchat.Visualizing the Evolution of the Sukhothai Buddha,pg 572
+
+[^4]:Sawitree Wisetchat.Visualizing the Evolution of the Sukhothai Buddha,pg 572
+
 
 
 

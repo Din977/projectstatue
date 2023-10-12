@@ -9,7 +9,7 @@ credits: true
 ---
 ## Wat Buddhasamakkee
 -----------------------
-![Wat Buddhasamakkee](https://raw.githubusercontent.com/Din977/projectstatue/main/objects/Banner.jpg)![Wat Buddhasamakkee](https://raw.githubusercontent.com/Din977/projectstatue/main/objects/Emerald.jpg)
+![Wat Buddhasamakkee](https://raw.githubusercontent.com/Din977/projectstatue/main/objects/Banner.jpg)![Wat Buddhasamakkee](https://raw.githubusercontent.com/Din977/projectstatue/main/objects/Emerald.JPG)
 
 
 
@@ -74,7 +74,7 @@ The temple also provides a platform as a meeting place for Thai people promotes 
 
 
 ## Buddha Statue Heritage
-![Wat Buddhasamakkee](https://raw.githubusercontent.com/Din977/projectstatue/main/objects/statues.jpg)![Wat Buddhasamakkee](https://raw.githubusercontent.com/Din977/projectstatue/main/objects/statues1.jpg)
+![Wat Buddhasamakkee](https://raw.githubusercontent.com/Din977/projectstatue/main/objects/statues.jpg)![Wat Buddhasamakkee](https://raw.githubusercontent.com/Din977/projectstatue/main/objects/statues1.JPG)
 
 
 

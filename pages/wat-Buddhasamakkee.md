@@ -9,7 +9,7 @@ credits: true
 ---
 ## Wat Buddhasamakkee
 -----------------------
-![Wat Buddhasamakkee](https://raw.githubusercontent.com/Din977/projectstatue/main/objects/Banner.jpg)
+![Wat Buddhasamakkee](https://raw.githubusercontent.com/Din977/projectstatue/main/objects/Banner.jpg)![Wat Buddhasamakkee](https://raw.githubusercontent.com/Din977/projectstatue/main/objects/Emerald.jpg)
 
 
 
@@ -74,7 +74,7 @@ The temple also provides a platform as a meeting place for Thai people promotes 
 
 
 ## Buddha Statue Heritage
-![Wat Buddhasamakkee](https://raw.githubusercontent.com/Din977/projectstatue/main/objects/statue.jpg)
+![Wat Buddhasamakkee](https://raw.githubusercontent.com/Din977/projectstatue/main/objects/statues.jpg)![Wat Buddhasamakkee](https://raw.githubusercontent.com/Din977/projectstatue/main/objects/statues1.jpg)
 
 
 
@@ -89,7 +89,15 @@ Suthothai art is collaboration of four schools of art.(the general group, the Wa
 ![Wat Buddhasamakkee](https://raw.githubusercontent.com/Din977/projectstatue/main/objects/sukhothai.jpg)
 a: General Group, late thirteenth–fourteenth century, at Ramkhamhaeng National Museum, Sukhothai. b: Wat Trakuan, late thirteenth century, at Ramkhamhaeng National Museum, Sukhothai. c: Kamphaengpet, fourteenth–fifteenth century, at National Museum, Bangkok. d: Phra Phutta Chinnarat, fourteenth– fifteenth century, at Wat Phra Si Ratana Mahathat.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+References:
+[1]
 
+[2]
+
+[3]
+
+[4]
 
 
 

@@ -9,7 +9,7 @@ credits: true
 ---
 ## Wat Buddhasamakkee
 -----------------------
-![Wat Buddhasamakkee](https://raw.githubusercontent.com/Din977/projectstatue/main/objects/Banner.jpg)![Wat Buddhasamakkee](https://raw.githubusercontent.com/Din977/projectstatue/main/objects/Emereld.JPG)
+![Wat Buddhasamakkee](https://raw.githubusercontent.com/Din977/projectstatue/main/objects/coverbanner.jpg)
 
 
 

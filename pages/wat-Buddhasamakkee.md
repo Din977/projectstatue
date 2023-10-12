@@ -41,7 +41,7 @@ Participating and organizing in spiritual and cultural programs
 
 ### Arrangement of temple praying hall
 ![Wat Buddhasamakkee](https://raw.githubusercontent.com/Din977/projectstatue/main/objects/seat.jpg)
-![WAt Buddhasamakkee](https://raw.githubusercontent.com/Din977/projectstatue/main/objects/arrangement.jpg) [^2]:
+![WAt Buddhasamakkee](https://raw.githubusercontent.com/Din977/projectstatue/main/objects/arrangement.jpg)  [2]:
 
 The arrangement of the temple praying hall typically follows a traditional and symbolic layout that reflects Thai Buddhist principles and rituals. The central focus of the praying room is the altar. The altar typically features a prominent Buddha statue and other smaller Buddha statues in layers. The Buddha image represents the enlightened state and serves as the main object of veneration. In addition to the main Buddha image, there is a guardian deity. In front of the altar, there is usually a table where worshipers can place offerings. These offerings often include candles, incense sticks, flowers, and food. Incense burners are placed near the altar. Burning incense is a common practice in Buddhist rituals and symbolizes the purification of the mind and the offering of fragrant scents to the Buddha and other deities. There are Seating Arrangements for monks and devotees. There is a kind of little height stage for monks and cushions on the floor for worshipers to sit or kneel during ceremonies and meditation
 
@@ -95,9 +95,9 @@ References:
 
 [^1]: https://www.sanghaoceania.org/en/aboutus
 
-[2]:https://www.facebook.com/mahabuddha.dusseldorf/
+[^2]:https://www.facebook.com/mahabuddha.dusseldorf/
 
-[3]:https://www.facebook.com/mahabuddha.dusseldorf/
+[^3]:https://www.facebook.com/mahabuddha.dusseldorf/
 
 [^4]:https://www.facebook.com/mahabuddha.dusseldorf/
 

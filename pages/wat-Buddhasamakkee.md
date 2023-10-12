@@ -13,21 +13,22 @@ credits: true
 
 
 
-Wat Buddha Samakhee temple is located in Duisburg, Germany. This temple was established by a group of Thai immigrants and Thai inhabitants of Germany for a long time. They have moved from Düsseldorf to Markusstr. 44, 47055 Duisburg in 2020.03.20 There is nothing like a special temple in Thailand, but people try to bring the same atmosphere here. They have rented a house, converted it into a temple, and developed it as a temple.
-  The people of Thailand bonded with Thai culture in daily life. The temple is also a medium, where people can join and fulfill their cultural traditions. The main objective of the temple is to get advice and blessings from Sangha and give a platform for their community to celebrate traditional culture. Temples in Thailand have played multifaceted roles throughout history. They served as centers of education, where religious knowledge, reading, writing, and various other subjects were taught. Temples have also been the cradle of Thai customs and traditions, serving as focal points for local communities. In contemporary times, temples primarily function as places of religious learning and for performing religious ceremonies and rites. These include offerings, ordinations, and cremations, preserving the rich cultural and spiritual heritage of Thailand.
+Wat Buddha Samakhee temple is located in Duisburg, Germany. This temple was established by a group of Thai immigrants and Thai inhabitants of Germany for a long time. On 2020.03.20 They moved from Düsseldorf to Markusstr. 44, 47055, Duisburg. It's difficult to find a temple like  in Thailand, but people try to bring the same atmosphere here in Germany. They have rented a house, then, converted it into a temple, with a worship hall and a small dining place as a temple.
+Buddhism and Thai culture are integrated into Thai society. Buddhist monks play a pivotal role in binding Buddhism and Thai culture. The temple is also a medium, where people can join and fulfill their cultural traditions. The main objective of the temple is to provide shelter for monks. Monks' main duties are to give advice and blessings. Besides these activities, the temple also provides a platform for their community to celebrate traditional culture. Temples in Thailand have played multifaceted roles throughout history. They served as centers of education, where religious knowledge, reading, writing, and various other subjects were taught. Temples have also been the cradle of Thai customs and traditions, serving as focal points for local communities. In contemporary times, temples primarily function as places of religious learning and for performing religious ceremonies and rites. These include offerings, ordinations, and cremation rituals.
 
 **Organization structure**
 
-This temple is a non-profit organization run through charity and donations from local and community people. In order to run this organization, a group of devotees will make requests to the Thai Missionary  Union(Dhammaduta sangha) to provide a monk. The Thai Missionary Union is the administrative part that provides monks and support to the temple aboard, which is also under the supervision of the Foreign Affairs Ministry of Thailand.[^1]:
+This temple is a non-profit organization run through charity and donations from local and community people. In order to run this organization, a group of devotees has to make a request to the Thai Missionary  Union(Dhammaduta sangha) to provide a monk. The Thai Missionary Union is the administrative part that provides monks and support to the temple aboard, which is also under the supervision of the Foreign Affairs Ministry of Thailand. After the request, there will be a selection of Monks then after approval from Sangha Committee only monks will be sent. [^1]:
 
 **Monks responsibilities**
+>1. Monks are responsible for maintaining temple activities, they should perform daily rituals like Chanting, almsgoing, accepting food offered by devotees, and giving blessings.
+>2. Monks are also sometimes responsible for temple administration. Like care taking temple maintenance, cleaning the temple's surroundings, and handling the temple budgets.
+>3.Besides these duties, monks conduct meditation sessions and promote Theravada Buddhism to community members and their children.
+>4.In Thai tradition, monks are not only spiritual leaders but also family counselors who give advice in their daily lives.
 
-Monks are responsible for maintaining temple activities, they should perform daily rituals like Chanting, almsgoing, accepting food offered by devotees, and giving blessings.
- Monks are also sometimes responsible for temple administration. Like care taking temple maintenance, cleaning the temple's surroundings, and handling the temple budgets.
-Besides these duties, monks conduct meditation sessions and promote Theravada Buddhism to community members and their children.
-In Thai tradition, monks are not only spiritual leaders but also play the role of family counselor.
 
-**Devotees duties**
+
+**Devotee's duties**
 
 Support the temple financially and logistically too. Try to fulfill temple requirements in goods.
  Look after monk's basic needs like food and other goods

@@ -20,19 +20,19 @@ As a showcase, I presented a variety of photographs taken by me from the Buddhis
 
 In these photographs. I want to show the outer look of the Center,
 
-> How do they arrange the praying hall?
+> ... How do they arrange the praying hall?
 > 
-> What are the unique things they kept in their main hall?
+> ... What are the unique things they kept in their main hall?
 > 
-> How do they try to link with their origin place?
+> ... How do they try to link with their origin place?
 > 
-> How much importance is given to aesthetic beauty?
+> ...  How much importance is given to aesthetic beauty?
 > 
-> What are the decorative objects?
+> ... What are the decorative objects?
 > 
-> Who are their main targeted groups?
+> ... Who are their main targeted groups?
 > 
-> How do they attract new visitors?
+> ... How do they attract new visitors?
 > 
 
 In order to make this project successful, I visited all three places and participated in their program and also interacted with some people, and then observed there. 

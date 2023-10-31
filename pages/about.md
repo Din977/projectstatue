@@ -56,19 +56,19 @@ While doing this project, it was great learning about the art of different count
 
 Reference:
 
-1. Ananda K. Coomaraswamy, The Origin of the Buddha Image, The Art Bulletin , Jun. 1927, Vol. 9, No. 4 (Jun. 1927), pp. 287-329 Published by: CAA Stable URL: https://www.jstor.org/stable/3046550
-2. Baumann, Martin, 1996, Buddhism in the West: Phases, Orders and the Creation of an Integrative Buddhism, Internationales Asienforum, Vol.27. No. 3-4.p. 345-362
-Brown, Kathryn Selig. “Nepalese Sculpture.” In Heilbrunn Timeline of Art History. New York: The Metropolitan Museum of Art, 2000–. http://www.metmuseum.org/toah/hd/neps/hd_neps.htm (October 2003)
-3. Jørn Borup, Buddhism in the West, Department of Culture and Society, ARTS, Aarhus University, Aarhus C, Denmark
-4. Linda Marlinda,  Fikri Budiman, Ruri Suko Basuki, Ahmad Zainul Fanani, Comparison of sift and orb methods in identifying the face of the Buddha Statue. Doctoral Program Of Computer Science Faculty1,3,4,5 Universitas Dian Nuswantoro, Semarang.
-5. Moriya Tomoe, 守屋 友江, (1936), D.T. Suzuki at the World Congress of Faiths, An Analysis of His Presentation at the Interfaith Conference, Nanzan Institute for Religion and Culture, Nagoya, Japan
-6. Sawitree Wisetchat. Visualizing the Evolution of the Sukhothai Buddha, pg 572
-7. Suzuki, D.T., 2010, Zen and Japanese Culture, Princeton: Princeton University Press.
-8. Yifan Zheng, A Study of the History of the Development of Buddhist Iconography, Arts and Crafts Department, Beijing City University, Beijing,101309, China
-9.https://brill.com/view/journals/jrj/10/2-3/article-p135_2.xml 
+1. Ananda K. Coomaraswamy, _The Origin of the Buddha Image, The Art Bulletin_ , Jun. 1927, Vol. 9, No. 4 (Jun. 1927), pp. 287-329 Published by: CAA Stable URL: https://www.jstor.org/stable/3046550
+2. Baumann, Martin, 1996, _Buddhism in the West: Phases, Orders and the Creation of an Integrative Buddhism, Internationales Asienforum_, Vol.27. No. 3-4.p. 345-362
+Brown, Kathryn Selig. _“Nepalese Sculpture.” In Heilbrunn Timeline of Art History. New York: The Metropolitan Museum of Art_, 2000–. http://www.metmuseum.org/toah/hd/neps/hd_neps.htm (October 2003)
+3. Jørn Borup,_Buddhism in the West, Department of Culture and Society, ARTS, Aarhus University, Aarhus C, Denmark
+4. Linda Marlinda,  Fikri Budiman, Ruri Suko Basuki, Ahmad Zainul Fanani, Comparison of sift and orb methods in identifying the face of the Buddha Statue_. Doctoral Program Of Computer Science Faculty1,3,4,5 Universitas Dian Nuswantoro, Semarang.
+5. Moriya Tomoe, 守屋 友江, (1936), _D.T. Suzuki at the World Congress of Faiths, _An Analysis of His Presentation at the Interfaith Conference__, Nanzan Institute for Religion and Culture, Nagoya, Japan
+6. Sawitree Wisetchat. _Visualizing the Evolution of the Sukhothai Buddha_, pg 572
+7. Suzuki, D.T., 2010, _Zen and Japanese Culture_, Princeton: Princeton University Press.
+8. Yifan Zheng, _A Study of the History of the Development of Buddhist Iconography_, Arts and Crafts Department, Beijing City University, Beijing,101309, China
+9.  https://brill.com/view/journals/jrj/10/2-3/article-p135_2.xml 
 10. https://www.christies.com/en/stories/age-of-enlightenment-an-introduction-to-early-japa-25d8696b4fdb4b92ae1471bf4ccd23da
 11. https://eko-haus.de/en/about-us/purpose-history 
-12.https://www.diamondway-buddhism.org/buddhist-teachers
+12. https://www.diamondway-buddhism.org/buddhist-teachers
 13. https://www.sanghaoceania.org/en/aboutus
 
 

@@ -54,5 +54,23 @@ Zen Buddhist tradition is famous as Japanese Buddhism. Even though Zen Buddhism 
 In other to get deep insight about Zen Buddhism and Japanese culture I chose EKO-Haus der Japanishchen Kultur e.V, in Düsseldorf, which gave vibes of entering Japan in Germany. In this cultural center, they have built a huge shrine hall and cultural center museum to display Japanese culture. All the religious activities were performed in the main shrine hall, and there were chair arrangements for participants in the middle of the hall there was a standing statue of Amitabha Buddha and a side with Lineage Masters pictures. Here too I joined one of the programs, the atmosphere was good and visitors from different nations were welcomed. In the center, I encountered one German priest and two other Japanese priests. With surrounding Japanese architecture and Japanese people, it gives a feeling of being in Japan. The Amitabha Buddha in the main hall depicts all the features of Japanese art.
 While doing this project, it was great learning about the art of different countries and even the religions that belong to Buddhism, but the attraction of interest and art is the same Buddha had dissimilarity. Finally, the main lesson of this project is object is the main source to identify the heredity and origin.
 
+Reference:
+
+1. Ananda K. Coomaraswamy, The Origin of the Buddha Image, The Art Bulletin , Jun. 1927, Vol. 9, No. 4 (Jun. 1927), pp. 287-329 Published by: CAA Stable URL: https://www.jstor.org/stable/3046550
+2. Baumann, Martin, 1996, Buddhism in the West: Phases, Orders and the Creation of an Integrative Buddhism, Internationales Asienforum, Vol.27. No. 3-4.p. 345-362
+Brown, Kathryn Selig. “Nepalese Sculpture.” In Heilbrunn Timeline of Art History. New York: The Metropolitan Museum of Art, 2000–. http://www.metmuseum.org/toah/hd/neps/hd_neps.htm (October 2003)
+3. Jørn Borup, Buddhism in the West, Department of Culture and Society, ARTS, Aarhus University, Aarhus C, Denmark
+4. Linda Marlinda,  Fikri Budiman, Ruri Suko Basuki, Ahmad Zainul Fanani, Comparison of sift and orb methods in identifying the face of the Buddha Statue. Doctoral Program Of Computer Science Faculty1,3,4,5 Universitas Dian Nuswantoro, Semarang.
+5. Moriya Tomoe, 守屋 友江, (1936), D.T. Suzuki at the World Congress of Faiths, An Analysis of His Presentation at the Interfaith Conference, Nanzan Institute for Religion and Culture, Nagoya, Japan
+6. Sawitree Wisetchat. Visualizing the Evolution of the Sukhothai Buddha, pg 572
+7. Suzuki, D.T., 2010, Zen and Japanese Culture, Princeton: Princeton University Press.
+8. Yifan Zheng, A Study of the History of the Development of Buddhist Iconography, Arts and Crafts Department, Beijing City University, Beijing,101309, China
+9.https://brill.com/view/journals/jrj/10/2-3/article-p135_2.xml 
+10. https://www.christies.com/en/stories/age-of-enlightenment-an-introduction-to-early-japa-25d8696b4fdb4b92ae1471bf4ccd23da
+11. https://eko-haus.de/en/about-us/purpose-history 
+12.https://www.diamondway-buddhism.org/buddhist-teachers
+13. https://www.sanghaoceania.org/en/aboutus
+
+
 
 {% include cb/about_the_about.md %} 

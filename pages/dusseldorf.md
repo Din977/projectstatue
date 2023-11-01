@@ -7,7 +7,7 @@ credits: true
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
-![Düssorldorf](https://raw.githubusercontent.com/Din977/projectstatue/main/objects/view.JPG)
+![Düssorldorf](https://raw.githubusercontent.com/Din977/projectstatue/main/objects/Buddhist.jpg)
 ## Buddhist centre Dusseldorf (The Diamond Way Buddhism)
 ---------------------------------------------------------
 

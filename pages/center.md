@@ -75,8 +75,7 @@ During the Heian period wooden sculptures were usually carved out of a single tr
 
 
 
-What are the important and propose?
-How do they preserve their origin and connection to the main center?
+
 
 
 --------------------------------------------------------------------------------
